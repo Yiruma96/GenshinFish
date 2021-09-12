@@ -1,0 +1,6 @@
+.idea/
+dataset
+temp*
+venv
+config.json
+test*
