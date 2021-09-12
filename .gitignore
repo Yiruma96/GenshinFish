@@ -4,3 +4,4 @@ temp*
 venv
 config.json
 test*
+.gitignore
